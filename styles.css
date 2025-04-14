@@ -185,14 +185,14 @@ transform: scale(1.05);
   width: 450px;
 }
 .rps{
-  background-image: url("/assets/projects/RPS/rpss.png");
+  background-image: url("./assets/projects/RPS/rpss.png");
   
 }
 .tdl{
-  background-image: url("/assets/projects/todolist/download.png");
+  background-image: url("./assets/projects/todolist/download.png");
 }
 .rpg{
-  background-image: url("/assets/projects/RandomPeople/Screenshot_2.png");
+  background-image: url("./assets/projects/RandomPeople/Screenshot_2.png");
   background-size: 100% 100% !important;
 
 }
